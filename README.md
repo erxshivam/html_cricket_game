@@ -1,1 +1,1 @@
-https://shivam0001-ai.github.io/html_cricket_game/
+https://erxshivam.github.io/html_cricket_game/
